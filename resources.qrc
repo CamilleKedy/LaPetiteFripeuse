@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/money-finance-cash-payment-svgrepo-com.svg</file>
+        <file>icons/banknotes-svgrepo-com.svg</file>
+        <file>icons/money-stack-svgrepo-com.svg</file>
+        <file>icons/notification-unread-lines-svgrepo-com.svg</file>
+        <file>icons/setting-line-svgrepo-com.svg</file>
+        <file>sql/init.sql</file>
+        <file>sql/dummy.sql</file>
+        <file>icons/options-horizontal-svgrepo-com-black.svg</file>
+        <file>icons/options-horizontal-svgrepo-com-white.svg</file>
+        <file>icons/caret-down-svgrepo-com-black.svg</file>
+        <file>icons/caret-down-svgrepo-com-white.svg</file>
+        <file>icons/caret-up-svgrepo-com-black.svg</file>
+        <file>icons/caret-up-svgrepo-com-white.svg</file>
+    </qresource>
+</RCC>
